@@ -11,15 +11,16 @@
         <header>
             <ul>
               <p>  <il> <a href="https://open.spotify.com/intl-pt/track/2KslE17cAJNHTsI2MI0jb2?si=83f75906b6af43f2">Clique aqui</a></il></p>
-              <p>  <il> <a href="./elementos.textuais.html">BTS Jung Kook Ranks 10th on IIFOI'Global Single Chart'</a></il> </p>
+              <p>  <il> <a href="https://www.dipe.co.kr/2282927">BTS Jung Kook Ranks 10th on IFOI'Global Single Chart'</a></il> </p>
             </ul>
         </header>
     </body>
     <body>
       <main>
-                <h1 id="titulo-da-pagina">Título da página</h1>
+                <h1 id="titulo-da-pagina">BTS Jung Kook Ranks 10th on IIFOI'Global Single Chart'</h1>
                 <h2> Jung Kook </h2>
-                <img src="https://dispatch.cdnser.be/cms-content/uploads/2024/02/27/e0499758-2a58-4185-a4bd-9043cf2f27a3.png"
+                    <img src="https://dispatch.cdnser.be/cms-content/uploads/2024/02/27/e0499758-2a58-4185-a4bd-9043cf2f27a3.png"</img>
+                    <img src="https://dispatch.cdnser.be/cms-content/uploads/2024/02/27/9e00abf0-b2cd-4b6c-9f68-c2bf76ab33dc.png"</img>
                 <p>
                     BTS member Jungkook has made it to the top 10 of the International Federation of the Phonographic Industry (IFPI) '2023 Global Single Chart. </p>
                 <p> 'According to the IFPI official website on the 26th (local time), Jungkook's solo single 'Seven' ranked10th on last year's Global Single Chart. </p>
